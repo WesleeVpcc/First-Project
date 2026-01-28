@@ -6,7 +6,6 @@ int main ()
 {
     double hours, rate, pay;
     
-
     // Get the number of hours worked. 
     cout << "How many hours did you work?";
     cin >> hours;
